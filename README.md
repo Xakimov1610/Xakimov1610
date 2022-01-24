@@ -1,6 +1,6 @@
 ### 
 <p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="200"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" height="150"/>
 </p>
 
 # Hi there, I'm Nosirbek 👋
