@@ -41,15 +41,15 @@
 
 <div align="center">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wahid-d&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xakimov1610&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 <div>
  <br/>
 
-<!-- [![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=wahid-d&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+[![Xakimov's Streak](https://github-readme-streak-stats.herokuapp.com?user=Xakimov1610&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=wahid-d&color=orange&label=Profile%20Views)](https://github.com/wahid-d/wahid-d)
-[![](https://img.shields.io/github/followers/wahid-d?label=GitHub%20Followers)](https://github.com/wahid-d) -->
+[![](https://komarev.com/ghpvc/?username=Xakimov1610&color=orange&label=Profile%20Views)](https://github.com/Xakimov1610/wahid-d)
+[![](https://img.shields.io/github/followers/wahid-d?label=GitHub%20Followers)](https://github.com/Xakimov1610)
 <!--
 **Xakimov1610/Xakimov1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
