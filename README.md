@@ -1,3 +1,7 @@
+<h3 align="center">
+  Welcome to Asrorbek O'ktamjonov's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 ### 
 <p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" height="150"/>
