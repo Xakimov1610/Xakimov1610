@@ -59,11 +59,13 @@
 [![](https://komarev.com/ghpvc/?username=Xakimov1610&color=orange&label=Profile%20Views)](https://github.com/Xakimov1610/Xakimov1610)
 [![](https://img.shields.io/github/followers/Xakimov1610?label=GitHub%20Followers)](https://github.com/Xakimov1610) -->
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov1610&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px" align="center">
-</p>
+
+<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov1610&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height = "199px">
+</div>
 <hr>
 
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/mutafakkir/count.svg"/></h3>
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/xakimov1610/count.svg"/></h3>
 
 <!--
 **Xakimov1610/Xakimov1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
