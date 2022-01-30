@@ -50,6 +50,8 @@
 
 </div>
 
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
   <div align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=xakimov1610&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
