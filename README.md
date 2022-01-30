@@ -22,6 +22,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science and Engineering - Miras University.
+- 🎓 &nbsp; From May 2021, I learned C and Python programming at Najot Ta'lim Training Center.
 - ⌛️ &nbsp; Currently I'm busy with:
   - 💼 &nbsp; Teaching programming at [Ilmhub IT School](https://ilmhub.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/Devxakimov)
