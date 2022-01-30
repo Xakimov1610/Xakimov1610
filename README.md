@@ -19,7 +19,6 @@
 <a href="https://www.facebook.com/nosirbek.xakimov.9"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 <h1> 👨🏻‍💻 Me now </h1>
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science and Engineering - Miras University.
 - 🎓 &nbsp; From May 2021, I learned C and Python programming at Najot Ta'lim Training Center.
@@ -29,16 +28,12 @@
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: nosirbekxakimov01@gmail.com
 
-<br/>
 <h1>🛠 Me Stack</h1>
-
 - 💻 &nbsp; `.c` | `.cpp` | `.cs` | `.py` | `.sh` | `.yml` | `.html` | `.css` | `.js`
 - 🌐 &nbsp; .NET 6/5/3 | MVC | Blazor | WebApi | Xamarin.Forms | Microservice
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
 - 🛢 &nbsp; SqlServer | PostgreSql
 - ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions
-
-<br/>
 
 <h1>Me Stats</h1>
 
