@@ -62,7 +62,7 @@
 
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov1610&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height = "199px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov1610&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" width="98%>
 </div>
 <hr>
 
