@@ -8,7 +8,7 @@
 </p>
 
 > I'm Software Engineer from `Uzbekistan`. A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub inc`.
-<br/><br/><br/>
+<br/>
 
 <p align="end">
 <a href="https://dev.to/xakimov1610"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
