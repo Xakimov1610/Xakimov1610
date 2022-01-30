@@ -1,5 +1,5 @@
 <p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" height="150"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100" height="80"/>
 </p>
 
 # Hi there, I'm Nosirbek 👋
