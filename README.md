@@ -43,12 +43,16 @@
 
 <h1>Me Stats</h1>
 
-<div align="left">
+<div align="center">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xakimov1610&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Xakimov1610&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 <div>
  <br/>
+ <div align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=mutafakkir&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
+  </div>
 
 [![Xakimov's Streak](https://github-readme-streak-stats.herokuapp.com?user=Xakimov1610&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
