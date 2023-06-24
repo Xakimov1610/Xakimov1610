@@ -12,10 +12,10 @@
 
 <p align="end">
 <a href="https://dev.to/xakimov1610"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://twitter.com/xakimov1610" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
+<a href="https://twitter.com/XNosirbek" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
 <a href="https://www.linkedin.com/in/xakimov-nosirbek-9ba2b8214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="https://t.me/xakimov1610"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://instagram.com/xakimov1610"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://t.me/Xakimov_Nosirbek"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://instagram.com/xakimov.nosirbek.dev"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/nosirbek.xakimov.9"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 <h1> 👨🏻‍💻 Me now </h1>
